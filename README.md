@@ -1,6 +1,6 @@
 # Calculator
 
-![Calculator Preview](https://abanoubphelopos.github.io/calculator-/assets/preview.png)
+![Calculator Preview](https://raw.githubusercontent.com/AbanoubPhelopos/calculator-/master/assets/calculator.ico)
 
 This is a simple and user-friendly calculator application that supports both dark and light modes. The calculator can perform the basic arithmetic operations of addition, subtraction, multiplication, and division.
 
