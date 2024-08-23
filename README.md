@@ -19,10 +19,3 @@ This is a simple and user-friendly calculator application that supports both dar
 Check out the live demo of the calculator here:  
 [**Calculator Live Demo**](https://abanoubphelopos.github.io/calculator-/)
 
-## Installation
-
-To use the calculator locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/abanoubphelopos/calculator-.git
